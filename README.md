@@ -12,9 +12,8 @@ Scientific manuscripts that have been accepted following peer review are publish
 
 Of particular use for searching the complete body of work published with eLife, or corpus, are:
 ```
-curl -v [https://prod--gateway.elifesciences.org/articles](https://prod--gateway.elifesciences.org/articles)
-
-curl -v [https://prod--gateway.elifesciences.org/search?for=cell](https://prod--gateway.elifesciences.org/search?for=cell)
+curl -v https://prod--gateway.elifesciences.org/articles
+curl -v https://prod--gateway.elifesciences.org/search?for=cell
 ```
 **eLife corpus**
 

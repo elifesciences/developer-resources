@@ -23,7 +23,7 @@ The full corpus is also available to download in XML and JSON from github:
 
 [https://github.com/elifesciences/elife-article-json](https://github.com/elifesciences/elife-article-json) 
 
-The size of the corpus grows daily. For an up-to-date estimation of the download size for each of the above, please refer to the size attribute via the Github API here: [https://api.github.com/repos/elifesciences/elife-article-](https://api.github.com/repos/elifesciences/elife-article-json)xml [https://api.github.com/repos/elifesciences/elife-article-json](https://api.github.com/repos/elifesciences/elife-article-json…)
+The size of the corpus grows daily. For an up-to-date estimation of the download size for each of the above, please refer to the size attribute via the Github API here: [https://api.github.com/repos/elifesciences/elife-article-xml](https://api.github.com/repos/elifesciences/elife-article-xml) [https://api.github.com/repos/elifesciences/elife-article-json](https://api.github.com/repos/elifesciences/elife-article-json)
 
 We occasionally update a number of articles in addition to appending new ones, so the corpus may be refreshed as well as expanded.
 
